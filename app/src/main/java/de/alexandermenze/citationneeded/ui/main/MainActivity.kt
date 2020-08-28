@@ -1,7 +1,8 @@
-package de.alexandermenze.citationneeded
+package de.alexandermenze.citationneeded.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import de.alexandermenze.citationneeded.R
 
 class MainActivity : AppCompatActivity() {
 	override fun onCreate(savedInstanceState: Bundle?) {
