@@ -1,4 +1,4 @@
-package de.alexandermenze.citationneeded.ui.main
+package de.alexandermenze.citationneeded.ui.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
